@@ -4,7 +4,7 @@ This MATLAB code optimizes the Entry Flight Path Angle (EFPA) for Mars Entry, De
 
 ## Key Features
 - EFPA optimization using `fmincon`
-- -EFPA optimization using the Hamiltonian
+- EFPA optimization using the Hamiltonian
 - Three-phase EDL simulation:
   - Hypersonic entry
   - Parachute descent
