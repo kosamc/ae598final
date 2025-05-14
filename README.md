@@ -31,6 +31,4 @@ Run `Optimal_EFPA_Mars_EDL_Simulation()` to:
 - Phase transition analysis
 - Robustness evaluation
 
-![Example EDL Trajectory](example_plot.png) *(sample output plot)*
-
 Developed for Mars landing mission analysis and optimization studies.
